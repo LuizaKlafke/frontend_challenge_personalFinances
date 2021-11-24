@@ -2,7 +2,7 @@
 
 ## Objective
 
-The object of this project is to practice Web Storage management, advanced Javascript and ECMAscript 6 skills by building the Personal Finances web page with the title "Orçamento Pessoal". On this application, you can read, insert or delete your personal expends.
+The object of this project is to practice Web Storage management, advanced Javascript and ECMAscript 6 skills by building the Personal Finances web page with the title "Orçamento Pessoal". With this application it is posible to read, insert or delete your personal expenses.
 
 # Run project
 
